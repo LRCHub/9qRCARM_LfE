@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "愛を伝えたいだとか",
   "base_artist": "あいみょん",
-  "createdAt": "2026-02-07T21:11:41.175027Z",
+  "createdAt": "2026-03-19T17:09:58.978953Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,24 @@
       "artist": "あいみょん",
       "has_synced": false,
       "path": "select/pl_01_愛を伝えたいだとか_あいみょん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛を伝えたいだとか",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_01_愛を伝えたいだとか_あいみょん.lrc",
+      "repo_name": "Qv5YL1d6siM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "愛を伝えたいだとか",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_02_愛を伝えたいだとか_あいみょん.lrc",
+      "repo_name": "9qRCARM_LfE"
     }
   ]
 }
